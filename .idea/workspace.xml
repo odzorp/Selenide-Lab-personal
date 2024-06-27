@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f128f792-3ed3-49c3-972f-1d4eeb7fcf5a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicAuthPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CloseBrowserPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DropDownPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FindElementsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GooglePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HandlingIframesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JSAlertPopUpHandlesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UserActionsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WaitPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WebDriverRunnerConcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BasicAuthtPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CloseBrowserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DropDownTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FindElementsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GoogleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HandlingIframesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JSAlertPopUpHandlesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NavigationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UserActionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WaitTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2iKRSWq28jZ10DWhLNAg4hut4kw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.CloseBrowserConcept.CloseBrowserTest.executor": "Run",
+    "JUnit.GoogleTest.testGoogle.executor": "Run",
+    "JUnit.NavigationConcepts.navigationTest.executor": "Run",
+    "JUnit.WebDriverRunnerConcept.WebDriverRunnerTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.BasicAuthenticationPopUp.executor": "Run",
+    "TestNG.BasicAuthtPageTest.executor": "Run",
+    "TestNG.CloseBrowserTest.executor": "Run",
+    "TestNG.DropDownTest.executor": "Run",
+    "TestNG.DropDowns.executor": "Run",
+    "TestNG.FindElements.executor": "Run",
+    "TestNG.FindElementsTest.executor": "Run",
+    "TestNG.GoogleConcept.executor": "Run",
+    "TestNG.GoogleConcept.testGoogle.executor": "Run",
+    "TestNG.GoogleTest.testGoogle.executor": "Run",
+    "TestNG.HandlingFrames.executor": "Run",
+    "TestNG.HandlingIframesTest.executor": "Run",
+    "TestNG.JSAlertPopUpHandles.alertTest.executor": "Run",
+    "TestNG.JSAlertPopUpHandles.executor": "Run",
+    "TestNG.JSAlertPopUpHandlesTest.executor": "Run",
+    "TestNG.NavigationConcepts.executor": "Run",
+    "TestNG.UserActions.dragAndDropElement.executor": "Run",
+    "TestNG.UserActions.executor": "Run",
+    "TestNG.UserActions.moveToElement.executor": "Run",
+    "TestNG.UserActions.rightClickTest.executor": "Run",
+    "TestNG.UserActionsTest.executor": "Run",
+    "TestNG.UserActionsTest.moveToElementTest.executor": "Run",
+    "TestNG.WaitTest.executor": "Run",
+    "TestNG.WaitTestConcept.Waittest.executor": "Run",
+    "TestNG.WaitTestConcept.executor": "Run",
+    "TestNG.WaitTestConcept.registerWaittest.executor": "Run",
+    "TestNG.WebDriverRunnerConcept.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/PhilipOdzor/IdeaProjects/Selenide/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.WebDriverRunnerTest">
+    <configuration name="JSAlertPopUpHandlesTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenide" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JSAlertPopUpHandlesTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserActionsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenide" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserActionsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserActionsTest.moveToElementTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenide" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserActionsTest" />
+      <option name="METHOD_NAME" value="moveToElementTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaitTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenide" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WaitTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebDriverRunnerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenide" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WebDriverRunnerTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.WebDriverRunnerTest" />
+        <item itemvalue="TestNG.WaitTest" />
+        <item itemvalue="TestNG.UserActionsTest.moveToElementTest" />
+        <item itemvalue="TestNG.UserActionsTest" />
+        <item itemvalue="TestNG.JSAlertPopUpHandlesTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f128f792-3ed3-49c3-972f-1d4eeb7fcf5a" name="Changes" comment="" />
+      <created>1719237286339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719237286339</updated>
+      <workItem from="1719237287500" duration="20078000" />
+      <workItem from="1719323015326" duration="41107000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BasicAuthPage.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/UserActionsPage.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/UserActionsPage.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/WebDriverRunnerConcept.java</url>
+          <line>16</line>
+          <properties class="WebDriverRunnerConcept" method="WebDriverRunnerTest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/UserActionsPage.java</url>
+          <line>32</line>
+          <properties class="UserActionsPage" method="getDropElement">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/WaitTestPage.java</url>
+          <line>25</line>
+          <properties class="WaitTestPage" method="registerWaittest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

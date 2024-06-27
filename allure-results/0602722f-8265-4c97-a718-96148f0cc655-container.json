@@ -1,0 +1,1 @@
+{"uuid":"0602722f-8265-4c97-a718-96148f0cc655","name":"Selenide","children":["ac68971b-384f-4b24-acad-f661c44c4c13"],"befores":[{"name":"beforeTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1719331525112,"stop":1719331535349}],"afters":[],"start":1719331525097,"stop":1719331539954}
